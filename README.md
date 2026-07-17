@@ -6,6 +6,10 @@ A Pac-Man clone built in C, featuring two versions:
 
 ---
 
+## Demo
+
+![Pac-Man Demo](pacman_demo_v2.gif)
+
 ## Console Version
 
 ### Features
